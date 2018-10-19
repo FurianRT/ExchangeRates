@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ExchangeRates</string>
+    <string name="api_key">0lqscE8AqBzNJWh5Q8vMaSSG</string>
+    <string name="hint_date_pattern">гггг-мм-дд</string>
+    <string name="load">Загрузить</string>
+    <string name="error_range">Начальная дата больше конечной</string>
+    <string name="errorInvalidDateFormat">Некорректный формат</string>
+    <string name="errorDateToBig">Слишком большая дата</string>
+    <string name="message_empty_result">Нет данных для заданного промежутка.
+        Попробуйте выбрать 2018 год</string>
+    <string name="dollar_rate">Курс доллара</string>
+    <string name="info_chart">График курса доллара за указанный период.
+        Желательно выбирать период текущего года</string>
+    <string name="min">мин</string>
+    <string name="max">макс</string>
+    <string name="average">срд</string>
+    <string name="median">мдн</string>
+    <string name="range">размах</string>
+    <string name="error_network">Отсутствует интернет-соединение</string>
+    <string name="error_load_data">При загрузке данных возникла ошибка.
+        Возможно количество бесплатных запросов к api закончилось.</string>
+</resources>
